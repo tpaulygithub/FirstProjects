@@ -1,0 +1,16 @@
+#bluebox {
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+    margin-left: 400px;
+    padding-top: 20;
+  }
+  
+  #redbox {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: 179px;
+    margin-left: 246px;
+  }
+  

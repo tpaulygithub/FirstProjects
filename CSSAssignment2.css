@@ -1,0 +1,79 @@
+body {
+    background-color:darkblue;
+    }
+
+  #redbox {
+    width: 1453px;
+    height: 82px;
+    background-color: red;
+    padding-top:10px;
+    border-radius:.5em;
+    padding-bottom:20px;
+    margin-left:7px;
+    margin-top: 20;
+    text-indent:13px;
+    margin-bottom: 17px;
+    }
+
+   #redtxt {
+    color:white;
+    font-size: 30pt;
+    text-align:left;
+    font-family:"NewTimesRoman";
+    margin-bottom:-30;
+    padding-bottom:20;    
+}
+  #aquabox {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(12, 125, 139);
+    margin-left:7px;
+    border-radius:.5em;
+    float:left;
+    text-indent:-1px;
+    }
+  #aqtxt 
+    {
+    font-size:12px;
+    font-family:"NewTimesRoman";
+    text-align:left;
+    color:purple;
+    text-decoration:underline;
+    padding-top:5px;
+    margin-top:7px;
+    padding-bottom:6px;
+    }
+
+   #blackbox {
+    width: 1195px;
+    height: 435;
+    background-color:black;
+    float:left;
+    border-radius:.5em;
+    text-align:left 30px;
+    color:white;
+    margin-left: 35px;
+    text-indent: 40px;
+    padding-left: 30; 
+}
+    
+    #greybox 
+    {
+    width: 1453px;
+    height: 82px;
+    background-color:grey;
+    padding-top:10px;
+    border-radius:.5em;
+    font-size:1.5em;
+    font-weight:bold;
+    text-align:left;
+    text-indent:50px;
+    padding-bottom:20px;
+    color:black;
+    margin-left:7px;
+    margin-bottom: 26px;
+    margin-top: 20;
+    float:left;
+    border-radius:.5em;
+    }
+
